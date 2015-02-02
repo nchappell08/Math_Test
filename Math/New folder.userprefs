@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RandomNumbers.cs">
+    <Files>
+      <File FileName="New folder.sln" Line="1" Column="1" />
+      <File FileName="Assets\RandomNumbers.cs" Line="1" Column="1" />
+      <File FileName="Assets\RandomNumbers.js" Line="1" Column="1" />
+      <File FileName="..\..\Game Programming 1\Lesson 19 - Project - Space Shooter - v4 - 9-25-14\Exercise Solutions\Assets\Scripts\JavaScript\GameBehavior.js" Line="1" Column="1" />
+      <File FileName="..\..\Game Programming 1\Lesson 19 - Project - Space Shooter - v4 - 9-25-14\Exercise Solutions\Assets\Scripts\JavaScript\PlayerBehavior.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
